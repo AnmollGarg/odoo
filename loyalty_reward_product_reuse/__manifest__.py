@@ -16,4 +16,5 @@
     'license': 'LGPL-3',
     'price': 1.0,
     'currency': 'EUR',
+    'images': ['static/description/banner.png'],
 }
